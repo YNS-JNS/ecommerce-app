@@ -1,0 +1,74 @@
+{
+  "categories": [
+    { "id": 1, "name": "Électronique" },
+    { "id": 2, "name": "Vêtements" },
+    { "id": 3, "name": "Maison" },
+    { "id": 4, "name": "Livres" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Casque Audio Pro",
+      "price": 249.99,
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2070&auto=format&fit=crop",
+      "stock": 15,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "T-shirt Coton Bio",
+      "price": 29.99,
+      "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=1980&auto=format&fit=crop",
+      "stock": 120,
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "Tasse à Café Originale",
+      "price": 14.5,
+      "imageUrl": "https://images.unsplash.com/photo-1594399542296-17b0d9930b53?q=80&w=1964&auto=format&fit=crop",
+      "stock": 50,
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "name": "Livre de Science-Fiction",
+      "price": 22.0,
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=1974&auto=format&fit=crop",
+      "stock": 30,
+      "categoryId": 4
+    },
+    {
+      "id": 5,
+      "name": "Smartphone Dernière Génération",
+      "price": 899.0,
+      "imageUrl": "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=1965&auto=format&fit=crop",
+      "stock": 8,
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Veste en Jean",
+      "price": 89.9,
+      "imageUrl": "https://images.unsplash.com/photo-1543087904-743503734315?q=80&w=1974&auto=format&fit=crop",
+      "stock": 45,
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "Plante d'intérieur",
+      "price": 19.99,
+      "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?q=80&w=2072&auto=format&fit=crop",
+      "stock": 75,
+      "categoryId": 3
+    },
+    {
+      "id": 8,
+      "name": "Ensemble de Couteaux",
+      "price": 120.0,
+      "imageUrl": "https://images.unsplash.com/photo-1618683515789-49782a79d083?q=80&w=1974&auto=format&fit=crop",
+      "stock": 22,
+      "categoryId": 3
+    }
+  ]
+}
