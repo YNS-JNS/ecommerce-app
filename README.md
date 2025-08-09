@@ -1,3 +1,4 @@
+```
 mon-ecommerce-app/
 ├── package.json // Dépendances et scripts du projet.
 ├── tsconfig.json // Configuration de TypeScript.
@@ -101,3 +102,4 @@ mon-ecommerce-app/
     // ====================================================================================
     ├── App.tsx                        // Définit le routeur (createBrowserRouter) et ses routes.
     └── main.tsx                       // Point d'entrée. Rend l'App et l'enveloppe avec le <Provider> Redux.
+```
